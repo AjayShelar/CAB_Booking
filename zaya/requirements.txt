@@ -78,7 +78,7 @@ public==1.0.3
 pycodestyle==2.4.0
 pyfcm==1.4.5
 Pygments==2.2.0
-PyJWT==1.6.4
+PyJWT==2.4.0
 pylibmc==1.5.2
 python-dateutil==2.6.0
 python-memcached==1.59
